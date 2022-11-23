@@ -1,0 +1,20 @@
+{
+  "name": "prowse",
+  "version": "1.0.0",
+  "description": "an app for developer to share project ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j00les/prowse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j00les/prowse/issues"
+  },
+  "homepage": "https://github.com/j00les/prowse#readme"
+}
